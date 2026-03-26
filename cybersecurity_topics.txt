@@ -1,2 +1,3 @@
 Topics covered in CySA program at MITT include -Incident Response -Threat Management -Vulnerability Assessment
 -Security Operations\n -Penetration Testing
+-Incorrect Topic
